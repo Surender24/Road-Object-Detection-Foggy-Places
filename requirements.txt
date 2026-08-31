@@ -3,5 +3,5 @@ ultralytics==8.3.54
 
 
 
-
+gunicorn
 #python==3.8
